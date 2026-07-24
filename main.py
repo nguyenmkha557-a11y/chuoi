@@ -20,7 +20,7 @@ from playwright.async_api import BrowserContext, Page, Route, async_playwright
 # =========================
 # CẤU HÌNH
 # =========================
-TARGET_URL = "https://live03.chuoichientv.me/"
+TARGET_URL = "https://live04.chuoichientv.me/"
 PLAYER_ORIGIN_FALLBACK = "https://live.chuoichien.tv"
 OUTPUT_M3U = "chuoichien_live.m3u"
 OUTPUT_PIPE_M3U = "chuoichien_live_pipe.m3u"
